@@ -1,0 +1,16 @@
+{
+"companyName": "YashbSolutions",
+"productName": "Roooots",
+"productVersion": "0.1",
+"dataUrl": "e683c3f9c0adad031dedacdaa94529b5.unityweb",
+"wasmCodeUrl": "249d4b3998950412df054d5a26d16e12.unityweb",
+"wasmFrameworkUrl": "69c2a3f101f4f2ddf0f9ae0ec5e7cd25.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.32f1"
+}
